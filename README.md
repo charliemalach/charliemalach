@@ -4,7 +4,7 @@
 <h2 align="center">  </h2>
 
 - 🌱 I’m currently learning **React Native**
-- 👨‍💻 Check out my website **https://www.charliemalachinski.com**
+- 👨‍💻 Check out my [website](https://www.charliemalachinski.com)
 - 📫 Reach me at **charlie.malachinski@gmail.com**
 
 ![Charlie Malachinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=charliemalach&show_icons=true&theme=radical)
